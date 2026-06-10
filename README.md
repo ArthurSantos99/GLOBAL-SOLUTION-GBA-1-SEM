@@ -32,6 +32,22 @@ Todos os projetos deste semestre foram desenvolvidos sob o eixo temático de **m
 
 ---
 
+## Repositórios GitHub
+
+| Disciplina | Projeto | Repositório |
+|---|---|---|
+| AI for Robotic Process Automation | RPAGS | [joaopmd16/RPAGS](https://github.com/joaopmd16/RPAGS) |
+| Cluster Computing, Computação Neuromórfica e Supercomputadores | NeuroSpace Alert | [ArthurSantos99/GLOBAL-SOLUTION-COMPUTACAO-NEUROMORFICA-E-CLUSTER-1-SEM](https://github.com/ArthurSantos99/GLOBAL-SOLUTION-COMPUTACAO-NEUROMORFICA-E-CLUSTER-1-SEM) |
+| Computação Quântica & IA | QML para detecção de anomalias | [ArthurSantos99/GLOBAL-SOLUTION-COMPUTACAO-QUANTICA-1-SEM-](https://github.com/ArthurSantos99/GLOBAL-SOLUTION-COMPUTACAO-QUANTICA-1-SEM-) |
+| Front End & Mobile Development | PyroWatch | [joaopmd16/gs-front](https://github.com/joaopmd16/gs-front) |
+| Generative AI & Advanced Nets | SpaceRAG | [Nelson-D3v/SpaceRAG](https://github.com/Nelson-D3v/SpaceRAG) |
+| Governança em IA e Business Analytics | Relatório Integrador | [ArthurSantos99/GLOBAL-SOLUTION-GBA-1-SEM](https://github.com/ArthurSantos99/GLOBAL-SOLUTION-GBA-1-SEM) |
+| Physical Computing, Embedded AI, Robotics & Cognitive IoT | Plataforma de lançamento ESP32 | [joaopmd16/gs-iot-2026](https://github.com/joaopmd16/gs-iot-2026) |
+| Processamento de Linguagem Natural, Chatbots & Virtual Agents | Sistema RAG para edifícios verdes | [ArthurSantos99/GLOBAL-SOLUTION-NLP-1-SEM](https://github.com/ArthurSantos99/GLOBAL-SOLUTION-NLP-1-SEM) |
+| Visão Computacional | Wildfire Detection (EfficientNet) | *(repositório pendente)* |
+
+---
+
 ## Links
 
 | Recurso | Link |
