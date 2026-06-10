@@ -44,7 +44,8 @@ Todos os projetos deste semestre foram desenvolvidos sob o eixo temático de **m
 | Governança em IA e Business Analytics | Relatório Integrador | [ArthurSantos99/GLOBAL-SOLUTION-GBA-1-SEM](https://github.com/ArthurSantos99/GLOBAL-SOLUTION-GBA-1-SEM) |
 | Physical Computing, Embedded AI, Robotics & Cognitive IoT | Plataforma de lançamento ESP32 | [joaopmd16/gs-iot-2026](https://github.com/joaopmd16/gs-iot-2026) |
 | Processamento de Linguagem Natural, Chatbots & Virtual Agents | Sistema RAG para edifícios verdes | [ArthurSantos99/GLOBAL-SOLUTION-NLP-1-SEM](https://github.com/ArthurSantos99/GLOBAL-SOLUTION-NLP-1-SEM) |
-| Visão Computacional | Wildfire Detection (EfficientNet) | *(repositório pendente)* |
+| Visão Computacional | Wildfire Detection (EfficientNet) | Arquivo |
+| Governança em IA e Business Analytics | [ArthurSantos99/Video-governanca](https://github.com/ArthurSantos99/Video-governanca)
 
 ---
 
