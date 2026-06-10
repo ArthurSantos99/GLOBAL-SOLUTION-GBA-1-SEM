@@ -1,4 +1,4 @@
-# Global Solution 2026.1 — FIAP 2TIAP
+# Global Solution 2026.1 - FIAP 2TIAP
 
 **Integração de Soluções de IA aplicadas ao Monitoramento Espacial e Sustentabilidade Ambiental**
 
@@ -36,7 +36,7 @@ Todos os projetos deste semestre foram desenvolvidos sob o eixo temático de **m
 
 | Recurso | Link |
 |---|---|
-| Vídeo de Integração (GBA) | [A PREENCHER] |
+| Vídeo de Integração (GBA) | https://youtu.be/8ae1zqfkbeY |
 | Vídeo — Computação Quântica & IA | https://youtu.be/v78XVNwJDBg |
 | Vídeo — Generative AI & Advanced Nets | https://youtu.be/SA3ayAbbnLQ |
 | Vídeo — NLP, Chatbots & Virtual Agents | https://youtu.be/_eCXcS0mh9k |
@@ -58,4 +58,4 @@ O relatório integrador (`GBA_GS2026_1_Relatorio_Integracao.docx`) está na past
 
 ---
 
-*FIAP — Tecnologia em Inteligência Artificial — 2TIAP — Global Solution 2026.1*
+*FIAP (Tecnologia em Inteligência Artificial) - 2TIAPY - Global Solution 2026.1*
